@@ -1,4 +1,4 @@
-/* serv.c - Michael Scotson 
+/* server.c - Michael Scotson 
  * */
 
 #include <stdio.h>
